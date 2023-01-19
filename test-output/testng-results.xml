@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-18T14:40:40 IST" name="ProjectForMaven by packages" finished-at="2023-01-18T14:40:44 IST" duration-ms="4416">
+  <suite started-at="2023-01-19T15:43:35 IST" name="Default suite" finished-at="2023-01-19T15:43:35 IST" duration-ms="72">
     <groups>
     </groups>
-    <test started-at="2023-01-18T14:40:40 IST" name="MavenProject" finished-at="2023-01-18T14:40:44 IST" duration-ms="4416">
-      <class name="MavenProject.ProjectTest">
-        <test-method signature="createTest()[pri:0, instance:MavenProject.ProjectTest@2fd1433e]" started-at="2023-01-18T14:40:40 IST" name="createTest" finished-at="2023-01-18T14:40:44 IST" duration-ms="4353" status="PASS">
+    <test started-at="2023-01-19T15:43:35 IST" name="Default test" finished-at="2023-01-19T15:43:35 IST" duration-ms="72">
+      <class name="practice_Maven02.Demo1">
+        <test-method signature="test1()[pri:0, instance:practice_Maven02.Demo1@1b6e1eff]" started-at="2023-01-19T15:43:35 IST" name="test1" finished-at="2023-01-19T15:43:35 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createTest -->
-      </class> <!-- MavenProject.ProjectTest -->
-    </test> <!-- MavenProject -->
-  </suite> <!-- ProjectForMaven by packages -->
+        </test-method> <!-- test1 -->
+      </class> <!-- practice_Maven02.Demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
